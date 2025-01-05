@@ -1,6 +1,6 @@
 print("test")
 # import precticeDemo.demo1
-from precticeDemo import demo1
+from test1.precticeDemo import demo1
 
 def test():
     a = 1
